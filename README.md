@@ -1,2 +1,3 @@
-Groep:
-Leon + Martijn
+#Groep: Leon + Martijn
+
+kunstenaar: piet mondriaan
