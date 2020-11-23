@@ -1,4 +1,4 @@
 # WebXr
 Groep: Leon + Martijn
 
-kunstenaar: piet mondriaan
+kunstenaar: Tom Friedman
