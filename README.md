@@ -1,4 +1,6 @@
 # WebXr
 Groep: Leon + Martijn
 
-kunstenaar: Tom Friedman
+WebXr
+
+<img src="/MartijnRene/Museum/blob/master/Website/idee%20voorbeeld.png?raw=true">
