@@ -3,4 +3,4 @@ Groep: Leon + Martijn
 
 WebXr
 
-<img src="/MartijnRene/Museum/blob/master/Website/idee%20voorbeeld.png?raw=true">
+<img src="https://github.com/MartijnRene/Museum/blob/master/Website/idee%20voorbeeld.png">
