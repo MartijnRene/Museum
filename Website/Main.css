@@ -13,13 +13,13 @@ p {
     font-family: Arial, Helvetica, Monospace;
 }
 
-body {
-  background-color: #ffffff;
+#heading {
+  width: 100%;
+  margin: 0px;
+  padding: 30px;
+  background-color: rgb(153, 111, 82);
 }
 
-#heading {
-  width: auto;
-  padding: 30px;
-  background-color: rgba(0, 0, 0, 50);
-  color: rgb(51, 102, 1)
+#headimage {
+  height: 50px;
 }
