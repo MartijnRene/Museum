@@ -13,13 +13,57 @@ p {
     font-family: Arial, Helvetica, Monospace;
 }
 
-#heading {
-  width: 100%;
-  margin: 0px;
-  padding: 30px;
+.header {
+  padding: 10px;
+  padding-left: 30px;
   background-color: rgb(153, 111, 82);
+}
+
+#headerMenu {
+  display: block;
+  float: right;
+}
+
+.header h1 {
+  position: absolute;
+  top: 0;
+  right: 28px;
+  font-size: 20px;
+}
+
+.header a {
+  background-color: #4CAF50;
+  border: 3px solid white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 120px;
+}
+
+.header a:hover {
+  background-color: black;
 }
 
 #headimage {
   height: 50px;
+}
+
+#algemeneInformatieDiv{
+width: 40%;
+float: left;
+}
+
+#webXrUitleg{
+width: 40%;
+float: left;
+}
+
+#kaartVerkoopDiv{
+width: 40%;
+float: right;
 }
