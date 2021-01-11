@@ -53,17 +53,45 @@ p {
   height: 50px;
 }
 
-#algemeneInformatieDiv{
-width: 40%;
-float: left;
+/* Voorpagina */
+
+#infoWrap{
+  padding: 2%;
+}
+
+#algemeneInfoDiv{
+  width: 40%;
+  float: left;
 }
 
 #webXrUitleg{
-width: 40%;
-float: left;
+  width: 60%;
+  float: left;
+  clear: both;
 }
 
 #kaartVerkoopDiv{
-width: 40%;
-float: right;
+  width: 40%;
+  float: right;
 }
+
+#imageWrap{
+  clear: both;
+  padding: 2%;
+}
+
+#img1{
+  width: 35%;
+  height: auto;
+  float: left;
+}
+
+#img2{
+  width: 35%;
+  height: auto;
+  float: right;
+}
+
+/* webXR */
+
+/* contact */
