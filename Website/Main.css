@@ -75,6 +75,12 @@ p {
   float: right;
 }
 
+#openingstijden{
+  width: 60%;
+  float: right;
+  clear: both;
+}
+
 #imageWrap{
   clear: both;
   padding: 2%;
