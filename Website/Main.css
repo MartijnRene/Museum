@@ -55,49 +55,68 @@ p {
 
 /* Voorpagina */
 
-#infoWrap{
+#infoContainer{
   padding: 2%;
 }
 
 #algemeneInfoDiv{
-  width: 40%;
+  width: 50%;
   float: left;
 }
 
-#webXrUitleg{
-  width: 60%;
-  float: left;
-  clear: both;
+#infoVerkoop{
+  padding-bottom: 10%;
+}
+
+#webOpening{
+  padding-bottom: 10%;
 }
 
 #kaartVerkoopDiv{
-  width: 40%;
+  width: 45%;
   float: right;
+  padding-left: 5%;
+}
+
+#webXrUitleg{
+  width: 50%;
+  float: left;
+  clear: both;
 }
 
 #openingstijden{
-  width: 60%;
+  width: 45%;
   float: right;
-  clear: both;
+  padding-left: 5%;
 }
 
-#imageWrap{
+#imageContainer{
+  display:inline-block;
+  padding-top: 2%;
+  padding-bottom: 2%;
   clear: both;
-  padding: 2%;
+  background-color: lightblue;
 }
 
 #img1{
-  width: 35%;
+  max-width: 35%;
   height: auto;
   float: left;
+  padding-left: 5%;
 }
 
 #img2{
-  width: 35%;
+  max-width: 35%;
   height: auto;
   float: right;
+  padding-right: 5%;
 }
 
 /* webXR */
+
+a-scene{
+  height: 80%;
+  width: auto;
+}
 
 /* contact */
