@@ -14,9 +14,6 @@ p {
 }
 
 .header {
-  margin: -8px;
-  width: 100%;
-  height: 5%;
   padding: 10px;
   padding-left: 30px;
   background-color: rgb(153, 111, 82);
@@ -55,64 +52,4 @@ p {
 
 #headimage {
   height: 50px;
-}
-
-
-/* Voorpagina */
-
-#infoContainer{
-  padding: 2%;
-}
-
-#algemeneInfoDiv{
-  width: 50%;
-  float: left;
-}
-
-#infoVerkoop{
-  padding-bottom: 6%;
-}
-
-#webOpening{
-  padding-bottom: 6%;
-}
-
-#kaartVerkoopDiv{
-  width: 45%;
-  float: right;
-  padding-left: 5%;
-}
-
-#webXrUitleg{
-  width: 50%;
-  float: left;
-  clear: both;
-}
-
-#openingstijden{
-  width: 45%;
-  float: right;
-  padding-left: 5%;
-}
-
-#imageContainer{
-  display:inline-block;
-  padding-top: 2%;
-  padding-bottom: 2%;
-  clear: both;
-  background-color: lightblue;
-}
-
-#img1{
-  max-width: 35%;
-  height: auto;
-  float: left;
-  padding-left: 5%;
-}
-
-#img2{
-  max-width: 35%;
-  height: auto;
-  float: right;
-  padding-right: 5%;
 }
